@@ -1,0 +1,2 @@
+# AndroidArchitectureSandbox
+Android architectural sanbox
